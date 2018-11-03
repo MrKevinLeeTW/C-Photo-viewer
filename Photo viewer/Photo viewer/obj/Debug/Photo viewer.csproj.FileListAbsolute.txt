@@ -1,0 +1,9 @@
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\bin\Debug\Photo viewer.exe.config
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\bin\Debug\Photo viewer.exe
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\bin\Debug\Photo viewer.pdb
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\obj\Debug\Photo viewer.csprojResolveAssemblyReference.cache
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\obj\Debug\Photo_viewer.Form1.resources
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\obj\Debug\Photo_viewer.Properties.Resources.resources
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\obj\Debug\Photo viewer.csproj.GenerateResource.Cache
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\obj\Debug\Photo viewer.exe
+C:\Users\Msi gf63\Desktop\Photo viewer\Photo viewer\Photo viewer\obj\Debug\Photo viewer.pdb
